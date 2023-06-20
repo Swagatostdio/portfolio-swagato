@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+<meta charset = "UTF-8">
+<title> About Myself</title>
+<link rel= "stylesheet"  href ="stylesheet.css">
+</head>
+<body>
+<header>
+<h1> About Myself </h1>
+</header>
+<section>
+<h2> Favourite Movies</h2>
+<ul>
+<li>Enter the void</li>
+<li> Your name</li>
+<li>In the mood for love</li>
+</ul>
+</section>
+<section>
+<h2> Myself </h2>
+<details open><summary> My Childhood</summary>
+<p> I live in kolkata. I love to watch movies. My hobby is painting.
+</details>
+</section>
+
+<footer>
+<p><img src ="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F2%2F29%2FOIFF_2015-07-17_193547_-_Darren_Aronofsky.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDarren_Aronofsky&tbnid=2PDnMf9uJpPnPM&vet=12ahUKEwjE9-6hjN_0AhWmjtgFHQbqAKsQMygAegUIARDMAQ..i&docid=MDh5i15dzp7YcM&w=3264&h=4928&itg=1&q=darren%20aronofsky&ved=2ahUKEwjE9-6hjN_0AhWmjtgFHQbqAKsQMygAegUIARDMAQ" alt= "Favourite Director"/>
+</p>
+</footer>
+</body>
+</html>
